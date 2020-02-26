@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Shinta"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Hello, I am **Shinta**. This is my blog. Thank you for visit."
+  location         : "CIwARuGA"
   email            :
   links:
     - label: "Email"
